@@ -11,5 +11,5 @@ source ~/.vim_runtime/vimrcs/extended.vim
 catch
 endtry
 
-inoremapource ~/.vim_runtime/my_configs.vim
+:inoremap kj <ESC>  
 " >> ~/.vimrc
